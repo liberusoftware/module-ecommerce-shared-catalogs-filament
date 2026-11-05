@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-shared-catalogs-filament",
+  "description": "Shared Catalogs Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilityd0ad74a76b3f\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-shared-catalogs-filament"
+    }
+  }
+}

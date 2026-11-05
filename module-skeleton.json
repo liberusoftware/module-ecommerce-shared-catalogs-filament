@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shared-catalogs-filament",
+  "capabilityKey": "planned:ecommerce:shared-catalogs",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-shared-catalogs-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/shared-catalogs.md",
+  "presentationPlan": "projects/ecommerce/filament/shared-catalogs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
